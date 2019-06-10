@@ -15,7 +15,6 @@
 		12BD18F22209C3A30022A293 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12BD18F02209C3A30022A293 /* LaunchScreen.storyboard */; };
 		12BD18FD2209C3A30022A293 /* ThingsNearbyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12BD18FC2209C3A30022A293 /* ThingsNearbyTests.swift */; };
 		12BD19082209CAA00022A293 /* pageResponseJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12BD19072209CAA00022A293 /* pageResponseJSON.swift */; };
-		12D73D4C220AF9BD00F32E93 /* pagesResponseJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D73D4B220AF9BD00F32E93 /* pagesResponseJSON.swift */; };
 		12D73D4E220AFB1C00F32E93 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D73D4D220AFB1C00F32E93 /* Models.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,7 +41,6 @@
 		12BD18FC2209C3A30022A293 /* ThingsNearbyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThingsNearbyTests.swift; sourceTree = "<group>"; };
 		12BD18FE2209C3A30022A293 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		12BD19072209CAA00022A293 /* pageResponseJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pageResponseJSON.swift; sourceTree = "<group>"; };
-		12D73D4B220AF9BD00F32E93 /* pagesResponseJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pagesResponseJSON.swift; sourceTree = "<group>"; };
 		12D73D4D220AFB1C00F32E93 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -101,7 +99,6 @@
 			isa = PBXGroup;
 			children = (
 				12BD19072209CAA00022A293 /* pageResponseJSON.swift */,
-				12D73D4B220AF9BD00F32E93 /* pagesResponseJSON.swift */,
 				12BD18FC2209C3A30022A293 /* ThingsNearbyTests.swift */,
 				12BD18FE2209C3A30022A293 /* Info.plist */,
 			);
@@ -220,7 +217,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12D73D4C220AF9BD00F32E93 /* pagesResponseJSON.swift in Sources */,
 				12BD18FD2209C3A30022A293 /* ThingsNearbyTests.swift in Sources */,
 				12BD19082209CAA00022A293 /* pageResponseJSON.swift in Sources */,
 			);
